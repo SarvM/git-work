@@ -78,7 +78,7 @@ This setup is required only once on a give computer; they’ll stick around betw
 
 There are many ways to implement workflow in Git. We are going to discuss about the variant of [nvie's git branching workflow](http://nvie.com/posts/a-successful-git-branching-model/).
 
-Note: Please refer [naming convention page](https://github.com/SarvM/git-work/blob/master/documentation/git-naming-convention.md) for more details on branch naming conventions.
+Note: Please refer [naming convention page](https://sarvm.github.io/git-work/#naming-convention) for more details on branch naming conventions.
 
 ### Main branch
 
@@ -153,7 +153,7 @@ Below commands may be used to achieve the branching model explained in previous 
 
 #### Git commands
 
-Please refer [git useful commands](https://github.com/SarvM/git-work/blob/master/documentation/git-useful-commands.md) for more details on below commands.
+Please refer [git useful commands](https://sarvm.github.io/git-work/#useful-git-commands) for more details on below commands.
 
 ##### Initialize the project
 
