@@ -1,6 +1,0 @@
-{
-  "name": "Git-work",
-  "tagline": "Gig usage and workflow model details",
-  "body": "## Git-Work\r\n\r\nThe intention of this project is to provide basic details about Git Usage and Git workflow model implementation. \r\n\r\nPlease follow the links below:\r\n\r\n1. [Installation](https://github.com/SarvM/git-work/blob/master/documentation/git-installation-windows.md)\r\n2. [Setup Environment](https://github.com/SarvM/git-work/blob/master/documentation/git-setup-environment.md)\r\n3. [Naming Conventions](https://github.com/SarvM/git-work/blob/master/documentation/git-naming-convention.md)\r\n4. [Branching Model/Workflow explained](https://github.com/SarvM/git-work/blob/master/documentation/git-branching-model.md)\r\n5. [Git workflow commands](https://github.com/SarvM/git-work/blob/master/documentation/git-workflow-commands.md)\r\n6. [Git Useful commands](https://github.com/SarvM/git-work/blob/master/documentation/git-useful-commands.md)",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
