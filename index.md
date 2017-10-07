@@ -2,7 +2,7 @@
 
 The intention of this project is to provide basic details about Git Usage and Git workflow model implementation. 
 
-### Git installation - Windows                          
+## Git installation - Windows                          
 
 1. Download Git. 
     
@@ -23,7 +23,7 @@ The intention of this project is to provide basic details about Git Usage and Gi
     $ git --version
     ```
 
-### Setup Git Environment                          
+## Setup Git Environment                          
 
 This setup is required only once on a give computer; they’ll stick around between upgrades. You can also change them at any time by running through the commands again.
 
@@ -45,9 +45,9 @@ This setup is required only once on a give computer; they’ll stick around betw
     $ git config --global core.editor emacs
     ```
 
-### Naming Convention                          
+## Naming Convention                          
 
-#### General Guidelines
+### General Guidelines
 
 * Choose short and descriptive
 * Use dashes to separate words.
@@ -55,7 +55,7 @@ This setup is required only once on a give computer; they’ll stick around betw
 * Do not use bare numbers as leading parts. Example: BUG198483
 * Avoid long descriptive names.
 
-#### Branch Name Guidelines
+### Branch Name Guidelines
 
 * Use *slash* to mention supporting branch type.
 * Pattern to follow: 
@@ -74,13 +74,13 @@ This setup is required only once on a give computer; they’ll stick around betw
 
 ```
 
-### Git branching model                       
+## Git branching model                       
 
 There are many ways to implement workflow in Git. We are going to discuss about the variant of [nvie's git branching workflow](http://nvie.com/posts/a-successful-git-branching-model/).
 
 Note: Please refer [naming convention page](https://github.com/SarvM/git-work/blob/master/documentation/git-naming-convention.md) for more details on branch naming conventions.
 
-#### Main branch
+### Main branch
 
 These branches have an infinite lifetime
 
@@ -94,7 +94,7 @@ These branches have an infinite lifetime
     * This branch always points to latest development code.
     * It's equivalent to alpha state in release process.
         
-#### Supporting branch
+### Supporting branch
 
 These branches have limited life-time with specific purpose and it will be removed eventually once it's merged with corresponding branches.
 
@@ -406,7 +406,7 @@ Graphical representation of git commits -- used gitk to produce this image.
 ![gitk - releasev1.0.12](/documentation/img/gitk-release-v1.0.12.png?raw=true "gitk - releasev1.0.12")
 
 
-#### Useful Git Commands 
+## Useful Git Commands 
 
 1. git init
 
