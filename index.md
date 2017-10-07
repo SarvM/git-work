@@ -496,4 +496,4 @@ Graphical representation of git commits -- used gitk to produce this image.
      
     ```
 
-Enjoy!!
+Git!!!
