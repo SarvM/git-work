@@ -8,7 +8,7 @@ The intention of this article is to provide basic details about Git workflow mod
     
     There are few ways to install git on windows
     
-    * Offical Git Website: [Download Link] (http://git-scm.com/download/win) - The download will start automatically.
+    * Offical Git Website: [Download Link](http://git-scm.com/download/win) - The download will start automatically.
 
     * Git for Windows - Separate from Offical Git: Download the latest [Git for Windows installer](https://git-for-windows.github.io/).
         
