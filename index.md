@@ -1,6 +1,6 @@
-## Git-Work
+## Introduction
 
-The intention of this project is to provide basic details about Git Usage and Git workflow model implementation. 
+The intention of this article is to provide basic details about Git workflow model implementation. 
 
 ## Git installation - Windows                          
 
